@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>An Edgar, Anthony, Macavity, Gumshoe, and Barry Award winner, C. J. Box delivers the second pulse-pounding installment in his critically acclaimed series. While investigating a string of bizarre murders, Wyoming game warden Joe Pickett is forced to flee across treacherous terrain with a deadly tracker on his trail.</p>"; 
