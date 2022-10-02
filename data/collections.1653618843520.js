@@ -1,1 +1,0 @@
-window.collectionsJSON = [{"books":["B0731NCSLV","B01MUZYMGA","B01MTEYMIZ","1039400272","B01LWY5808","1665037873","1665037784","1665037695","1665033495","1664791213","1799962423","B01M3SOMBN","B074VBFK6L"],"id":"11a96317-bb66-4a6e-926a-e74a8170419b","title":"Romance"},{"books":["B099LV6Z9D"],"description":"Your favorite listens","id":"__FAVORITES","title":"Favorites"}];
