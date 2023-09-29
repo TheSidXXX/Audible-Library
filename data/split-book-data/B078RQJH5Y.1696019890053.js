@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Many view \"hitting rock bottom\" as a foundation on which to rebuild one's life, a place from which one can only ascend. Gamers know to search for a secret door leading down to the sewer.</p>"; 

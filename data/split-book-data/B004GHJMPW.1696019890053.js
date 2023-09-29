@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Jane, a shapeshifting vampire-hunter-for-hire, crosses paths with a stranger who has arrived in New Orleans, enlisted to hunt vampires who have gone insane - or so he says. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Five stories from the Powder Mage Universe, including the never-before-published \"Green-Eyed Vipers\". </p> <p>\"Hope's End\" </p> <p>\"The Girl of Hrusch Avenue\" </p> <p>\"Green-Eyed Vipers\" </p> <p>\"The Face in the Window\" </p> <p>\"Return to Honor\" </p>"; 
